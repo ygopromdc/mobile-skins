@@ -1,2 +1,1 @@
-# mobile-skins
-MDC Mobile Skins
+# MDC Mobile Skins
